@@ -21,8 +21,6 @@ List all the features completed.
 
 ### To Do
 
-List all the features not yet done. Remove this section if there is no incomplete requirements.
-
 1. Reset trail left by Alien
 2. Game control (arrow, save, load)
 3. Zombie movement
